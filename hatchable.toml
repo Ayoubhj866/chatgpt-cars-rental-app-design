@@ -1,0 +1,5 @@
+# Hatchable project manifest. This file marks the folder as a
+# Hatchable project and declares the services it uses.
+# Reference: https://hatchable.com/docs/developers/config
+name = "Car Maroc — Location de voitures"
+description = "A premium French-first car rental website for a Moroccan agency, with vehicle discovery and reservation requests."
